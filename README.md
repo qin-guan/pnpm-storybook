@@ -1,3 +1,5 @@
+Repository for [Storybook Preset Issue 58](https://github.com/storybookjs/presets/issues/58)
+
 Installation
 
 - Install Microsoft Rush
